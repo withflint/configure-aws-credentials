@@ -25,13 +25,13 @@
   },
   "homepage": "https://github.com/aws-actions/configure-aws-credentials#readme",
   "dependencies": {
-    "@actions/core": "^1.6.0",
-    "aws-sdk": "^2.1112.0",
-    "axios": "^0.26.1"
+    "@actions/core": "^1.8.2",
+    "aws-sdk": "^2.1145.0",
+    "axios": "^0.27.2"
   },
   "devDependencies": {
-    "@zeit/ncc": "^0.22.3",
-    "eslint": "^8.13.0",
-    "jest": "^27.5.1"
+    "@vercel/ncc": "^0.34.0",
+    "eslint": "^8.16.0",
+    "jest": "^28.1.0"
   }
 }
